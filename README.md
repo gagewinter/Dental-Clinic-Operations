@@ -1,4 +1,4 @@
-# Dental Clinic Operations Analytics Pipeline
+# Dental Clinic Operations Analytics ETL Pipeline
 
 An end-to-end healthcare analytics solution that transforms raw operational data into executive-ready business intelligence.
 
