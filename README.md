@@ -1,4 +1,4 @@
-# Dental Clinic Operations Analytics ETL Pipeline
+# Dental Clinic Analytics ETL Pipeline
 
 An end-to-end healthcare analytics solution that transforms raw operational data into executive-ready business intelligence.
 
@@ -10,7 +10,7 @@ Using **Python, SQLite, SQL, and Power BI**, this project demonstrates how an au
 
 Dental clinics generate large amounts of operational data from scheduling, patient management, provider activity, chair utilization, and insurance claims. Without centralized reporting, identifying trends, operational bottlenecks, and financial performance can be difficult.
 
-This project demonstrates how a modern analytics workflow can transform raw clinic data into meaningful insights for practice leadership.
+This project demonstrates a workflow that transforms raw clinic data into meaningful insights for practice leadership to make more informed decisions.
 
 ## Key Findings
 
