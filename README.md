@@ -49,6 +49,15 @@ This project follows an end-to-end analytics workflow:
 5. Connect Power BI directly to the database through ODBC
 6. Build executive dashboards and business KPIs
 
+ ![ETL Validation](screenshots/python/python-validation.png)
+
+### SQLite Database Loading
+
+After validation passes, the pipeline loads each cleaned dataset into a centralized SQLite database. Power BI connects directly to this database, creating a repeatable reporting workflow that separates raw operational data from analytics-ready data.
+
+![Python Database Load](screenshots/python/python-db-load.png)
+
+
 ---
 
 # Dashboard
