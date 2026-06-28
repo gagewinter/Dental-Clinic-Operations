@@ -1,0 +1,10 @@
+provider_id,provider_name,provider_role,hire_date,status
+PVD001,Erica Alexander,Dentist,2022-06-26,Active
+PVD002,Michael Gomez,Dentist,2023-01-23,Active
+PVD003,Jane Johnson,Hygienist,2023-11-10,Active
+PVD004,Kevin Johnson,Hygienist,2021-08-27,Active
+PVD005,Donald Taylor,Hygienist,2025-06-05,Active
+PVD006,Jamie Miller,Assistant,2021-07-27,Active
+PVD007,Autumn Ortiz,Assistant,2023-07-14,Active
+PVD008,Sandra Fisher,Assistant,2023-08-15,Active
+PVD009,Hannah Wilson,Assistant,2025-04-06,Active
