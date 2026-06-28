@@ -27,7 +27,7 @@ This dashboard enables clinic leadership to:
 
 ---
 
-# Technology Stack
+# Toolkit
 
 - Python
 - Pandas
@@ -42,7 +42,7 @@ This dashboard enables clinic leadership to:
 
 This project follows an end-to-end analytics workflow:
 
-1. Generate realistic synthetic dental clinic data
+1. Generate synthetic dental clinic data
 2. Clean and standardize datasets using Python
 3. Validate relationships and business rules
 4. Load cleaned data into SQLite
