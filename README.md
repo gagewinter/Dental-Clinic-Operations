@@ -129,7 +129,7 @@ Dental-Clinic-Operations/
 
 ---
 
-# Skills Demonstrated
+# Skills
 
 - End-to-End Analytics Pipeline Development
 - Data Cleaning & Validation
@@ -145,10 +145,10 @@ Dental-Clinic-Operations/
 
 ---
 
-# Future Enhancements
+## Business Recommendations
 
-- Automated pipeline scheduling
-- Predictive patient demand forecasting
-- Provider performance benchmarking
-- Multi-clinic reporting
-- Power BI Service deployment
+Based on this simulated analysis, a clinic manager could use this dashboard to:
+
+- Monitor outstanding claims and prioritize follow-up with insurers to increase pending balances.
+- Continue tracking referral sources and allocate more marketing resources to Google as its the main patient aquistion channel.
+- Review executive KPIs regularly to identify operational changes before they impact revenue or patient access.
