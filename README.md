@@ -12,18 +12,16 @@ Dental clinics generate large amounts of operational data from scheduling, patie
 
 This project demonstrates how a modern analytics workflow can transform raw clinic data into meaningful insights for practice leadership.
 
----
+## Key Findings
 
-# Business Impact
+Using a realistic synthetic dataset representing one year of dental clinic operations, the analysis surfaced several operational insights:
 
-This dashboard enables clinic leadership to:
+* **Insurance claims revenue is about 80%**, while approximately **20% of billed revenue remained outstanding**
+* **Provider productivity remained relatively balanced throughout the year**, with chair utilization helping identify periods of unused clinical capacity and scheduling opportunities.
+* **Referral source revealed Google is the main driver of patient acquisition**, enabling practice managers to evaluate which marketing channels contribute most effectively to clinic growth.
+* **More than half of submitted insurance claims were successfully paid**, while pending and partially paid claims represented the largest share of remaining receivables requiring follow-up.
+* **Executive KPIs consolidated financial, operational, and patient metrics into a single dashboard**, reducing the need to manually review multiple operational reports and enabling faster performance monitoring.
 
-- Monitor operational performance through executive KPIs
-- Track provider productivity and chair utilization
-- Analyze patient acquisition and referral sources
-- Monitor insurance claims and outstanding revenue
-- Identify scheduling and capacity trends
-- Support faster, data-driven business decisions
 
 ---
 
